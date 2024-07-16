@@ -1,0 +1,13 @@
+:root {
+  font-family: "Roboto";
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: rgb(38, 38, 38);
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
